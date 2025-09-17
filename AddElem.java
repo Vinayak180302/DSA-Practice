@@ -1,4 +1,4 @@
-import java.util.Arrays;
+// import java.util.Arrays;
 
 public class AddElem {
 
@@ -10,7 +10,6 @@ public class AddElem {
        newArr[arr.length] = element;
 
        return newArr;
-
 
   }
 
