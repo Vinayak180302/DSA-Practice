@@ -14,7 +14,7 @@ class ReverseArray{
     }
     System.out.println(Arrays.toString(arr));
   }
-  public static void main(MyString[] args) {
+  public static void main(String[] args) {
     int arr[] = {2, 3, 5, 7, 8, 9};
     Reverse(arr);
 

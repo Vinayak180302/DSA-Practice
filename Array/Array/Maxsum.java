@@ -42,7 +42,7 @@ public class Maxsum {
     System.out.println("max sum is : " + mx);
   }
 
-  public static void main(MyString[] args) {
+  public static void main(String[] args) {
 
     int arr[] = {2, -1, 3, -4, 5};
     // max(arr);

@@ -13,7 +13,7 @@ public class SecondLarge {
     }
     return slargest;
   }
-  public static void main(MyString[] args) {
+  public static void main(String[] args) {
     int arr[] = {1, 3, 5, 4, 7, 7, 6};
     System.out.println(second(arr));
   }

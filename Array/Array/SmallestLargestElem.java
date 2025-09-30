@@ -16,7 +16,7 @@ public class SmallestLargestElem {
     System.out.println("max element in array is :"+ max);
     System.out.println("min element in array is:"+ min);
   }
-  public static void main(MyString[] args) {
+  public static void main(String[] args) {
     int arr[] = {4, 3, 8, 120, 65, 84, 1, 64, 45};
 smallestLargest(arr);
 

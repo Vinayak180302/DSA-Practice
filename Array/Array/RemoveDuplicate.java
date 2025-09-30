@@ -13,7 +13,7 @@ public class RemoveDuplicate {
 
     return (i+1);
   }
-  public static void main(MyString[] args) {
+  public static void main(String[] args) {
     int arr[] = {1, 1, 2, 2, 3, 3, 4, 4};
     int len = duplicate(arr);
     System.out.println("length : " + len);

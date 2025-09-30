@@ -10,7 +10,7 @@ public class RotateArray1 {
     return arr;
 
   }
-  public static void main(MyString[] args) {
+  public static void main(String[] args) {
     int arr[] = {1, 2, 3, 4, 5};
 System.out.println(Arrays.toString(Rotate(arr)));
   }

@@ -23,7 +23,7 @@ public class IsSorted {
     }
     return true;
   }
-  public static void main(MyString[] args) {
+  public static void main(String[] args) {
     int arr[] = {1, 2, 2, 4, 5, 8, 9};
     // System.out.println(isSorted(arr));
     System.out.println(Sort(arr));
