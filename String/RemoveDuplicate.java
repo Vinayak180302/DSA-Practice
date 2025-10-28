@@ -7,8 +7,8 @@ public class RemoveDuplicate {
     for (int i = 0; i < str.length()-1; i++) {
       char ch = str.charAt(i);
 
-      if(result.indexOf(ch) == -1){
-         result += ch;
+      if(result.indexOf(ch) == -1){    //to check if character are not already present in result
+         result += ch;                 //if not then only add it to result 
       }
       
     }
